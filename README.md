@@ -1,4 +1,6 @@
-intern : arihant jain . Domain : web development . Batch: june 2026
+intern : arihant jain .
+Domain : web development .
+Batch: june 2026 .
 
 <h3> task overview </h3>
 This repository contains my solutions for the Oasis Infobyte Web Development Internship tasks.
